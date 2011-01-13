@@ -1,0 +1,479 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 445}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* PasswordGeneratorAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 452}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 342}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* PasswordGeneratorAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 452}}";
+			sepNavSelRange = "{478, 52}";
+			sepNavVisRange = "{0, 538}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* PasswordGenerator_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 491}}";
+			sepNavSelRange = "{185, 0}";
+			sepNavVisRange = "{0, 185}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = F466228B1284540300F0C430 /* PasswordGenerator */;
+		activeTarget = 8D1107260486CEB800E47090 /* PasswordGenerator */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* PasswordGenerator */,
+		);
+		breakpoints = (
+			F48C3A021288543900C9200E /* HCGeneratorController.m:114 */,
+		);
+		codeSenseManager = F46622991284542300F0C430 /* Code sense */;
+		executables = (
+			F466228B1284540300F0C430 /* PasswordGenerator */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					793,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					753,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316620951;
+			PBXWorkspaceStateSaveDate = 316620951;
+		};
+		perUserProjectItems = {
+			F4797797128B292300710240 /* PlistBookmark */ = F4797797128B292300710240 /* PlistBookmark */;
+			F48C39B512884DD600C9200E /* PBXTextBookmark */ = F48C39B512884DD600C9200E /* PBXTextBookmark */;
+			F48C39B612884DD600C9200E /* PBXTextBookmark */ = F48C39B612884DD600C9200E /* PBXTextBookmark */;
+			F48C39B712884DD600C9200E /* PBXTextBookmark */ = F48C39B712884DD600C9200E /* PBXTextBookmark */;
+			F4A521001287FF0200BE21A0 /* PBXTextBookmark */ = F4A521001287FF0200BE21A0 /* PBXTextBookmark */;
+			F4A83E671289BFF90047F799 /* PBXBookmark */ = F4A83E671289BFF90047F799 /* PBXBookmark */;
+			F4A83E871289F4650047F799 /* PBXTextBookmark */ = F4A83E871289F4650047F799 /* PBXTextBookmark */;
+			F4E5C36E12DF40890071B159 /* PBXTextBookmark */ = F4E5C36E12DF40890071B159 /* PBXTextBookmark */;
+			F4E5C36F12DF40890071B159 /* PBXTextBookmark */ = F4E5C36F12DF40890071B159 /* PBXTextBookmark */;
+			F4E5C37012DF40890071B159 /* PBXTextBookmark */ = F4E5C37012DF40890071B159 /* PBXTextBookmark */;
+			F4E5C37112DF40890071B159 /* PBXTextBookmark */ = F4E5C37112DF40890071B159 /* PBXTextBookmark */;
+			F4E5C37212DF40890071B159 /* PBXTextBookmark */ = F4E5C37212DF40890071B159 /* PBXTextBookmark */;
+			F4E5C37312DF40890071B159 /* PBXTextBookmark */ = F4E5C37312DF40890071B159 /* PBXTextBookmark */;
+			F4E5C37412DF40890071B159 /* PBXTextBookmark */ = F4E5C37412DF40890071B159 /* PBXTextBookmark */;
+			F4E5C37512DF40890071B159 /* PBXTextBookmark */ = F4E5C37512DF40890071B159 /* PBXTextBookmark */;
+			F4E5C37612DF40890071B159 /* PBXTextBookmark */ = F4E5C37612DF40890071B159 /* PBXTextBookmark */;
+			F4E5C37712DF40890071B159 /* PBXTextBookmark */ = F4E5C37712DF40890071B159 /* PBXTextBookmark */;
+			F4E5C38412DF40AB0071B159 /* PBXTextBookmark */ = F4E5C38412DF40AB0071B159 /* PBXTextBookmark */;
+			F4E5C38512DF40AB0071B159 /* PlistBookmark */ = F4E5C38512DF40AB0071B159 /* PlistBookmark */;
+			F4E5C38612DF40AB0071B159 /* PlistBookmark */ = F4E5C38612DF40AB0071B159 /* PlistBookmark */;
+		};
+		sourceControlManager = F46622981284542300F0C430 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 491}}";
+			sepNavSelRange = "{162, 0}";
+			sepNavVisRange = "{0, 260}";
+		};
+	};
+	8D1107260486CEB800E47090 /* PasswordGenerator */ = {
+		activeExec = 0;
+		executables = (
+			F466228B1284540300F0C430 /* PasswordGenerator */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{14, 50}, {1426, 828}}";
+		};
+	};
+	F432502912857EFD00E4D0C8 /* NSCharacterSet+Options.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1314, 452}}";
+			sepNavSelRange = "{828, 0}";
+			sepNavVisRange = "{0, 834}";
+			sepNavWindowFrame = "{{14, 50}, {1426, 828}}";
+		};
+	};
+	F432502A12857EFD00E4D0C8 /* NSCharacterSet+Options.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 741}}";
+			sepNavSelRange = "{1594, 0}";
+			sepNavVisRange = "{679, 963}";
+		};
+	};
+	F457A7C512884680004C2666 /* HCSettingsManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 452}}";
+			sepNavSelRange = "{405, 0}";
+			sepNavVisRange = "{0, 600}";
+		};
+	};
+	F457A7C612884680004C2666 /* HCSettingsManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 1001}}";
+			sepNavSelRange = "{915, 0}";
+			sepNavVisRange = "{621, 683}";
+		};
+	};
+	F466228B1284540300F0C430 /* PasswordGenerator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PasswordGenerator;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	F46622981284542300F0C430 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F46622991284542300F0C430 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F466229A1284545100F0C430 /* HCPasswordGenerator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 452}}";
+			sepNavSelRange = "{0, 392}";
+			sepNavVisRange = "{0, 392}";
+		};
+	};
+	F466229B1284545100F0C430 /* HCPasswordGenerator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 793}}";
+			sepNavSelRange = "{895, 47}";
+			sepNavVisRange = "{468, 622}";
+		};
+	};
+	F466234F12845F9900F0C430 /* HCGeneratorController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 689}}";
+			sepNavSelRange = "{677, 0}";
+			sepNavVisRange = "{321, 919}";
+			sepNavWindowFrame = "{{14, 50}, {1426, 828}}";
+		};
+	};
+	F466235012845F9900F0C430 /* HCGeneratorController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 2938}}";
+			sepNavSelRange = "{2529, 74}";
+			sepNavVisRange = "{2317, 804}";
+			sepNavWindowFrame = "{{14, 50}, {1426, 828}}";
+		};
+	};
+	F466238C128460C900F0C430 /* Defines.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1367, 772}}";
+			sepNavSelRange = "{538, 0}";
+			sepNavVisRange = "{0, 728}";
+			sepNavWindowFrame = "{{-1426, 197}, {1426, 900}}";
+		};
+	};
+	F4797797128B292300710240 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/simon/Programmering/PasswordGenerator/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	F48C39B512884DD600C9200E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* PasswordGenerator_Prefix.pch */;
+		name = "PasswordGenerator_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 185;
+		vrLoc = 0;
+	};
+	F48C39B612884DD600C9200E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 9";
+		rLen = 0;
+		rLoc = 162;
+		rType = 0;
+		vrLen = 260;
+		vrLoc = 0;
+	};
+	F48C39B712884DD600C9200E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F466238C128460C900F0C430 /* Defines.h */;
+		name = "Defines.h: 29";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 948;
+		vrLoc = 0;
+	};
+	F48C3A021288543900C9200E /* HCGeneratorController.m:114 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = F466235012845F9900F0C430 /* HCGeneratorController.m */;
+		functionName = "-refresh:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 114;
+		modificationTime = 310924345.69039;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	F4A521001287FF0200BE21A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F4A521011287FF0200BE21A0 /* NSObject.h */;
+		name = "NSObject.h: 71";
+		rLen = 20;
+		rLoc = 1271;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 880;
+	};
+	F4A521011287FF0200BE21A0 /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+	};
+	F4A83E671289BFF90047F799 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = F4A521EE1288110F00BE21A0 /* icon.icns */;
+	};
+	F4A83E701289C05A0047F799 /* Credits.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 478}}";
+			sepNavSelRange = "{559, 0}";
+			sepNavVisRange = "{0, 672}";
+		};
+	};
+	F4A83E871289F4650047F799 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F4A83E701289C05A0047F799 /* Credits.html */;
+		name = "Credits.html: 31";
+		rLen = 0;
+		rLoc = 559;
+		rType = 0;
+		vrLen = 672;
+		vrLoc = 0;
+	};
+	F4E5C36E12DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F432502912857EFD00E4D0C8 /* NSCharacterSet+Options.h */;
+		name = "NSCharacterSet+Options.h: 27";
+		rLen = 0;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
+	F4E5C36F12DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F432502A12857EFD00E4D0C8 /* NSCharacterSet+Options.m */;
+		name = "NSCharacterSet+Options.m: 52";
+		rLen = 0;
+		rLoc = 1594;
+		rType = 0;
+		vrLen = 963;
+		vrLoc = 679;
+	};
+	F4E5C37012DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* PasswordGeneratorAppDelegate.h */;
+		name = "PasswordGeneratorAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 342;
+		vrLoc = 0;
+	};
+	F4E5C37112DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* PasswordGeneratorAppDelegate.m */;
+		name = "PasswordGeneratorAppDelegate.m: 24";
+		rLen = 52;
+		rLoc = 478;
+		rType = 0;
+		vrLen = 538;
+		vrLoc = 0;
+	};
+	F4E5C37212DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F466229A1284545100F0C430 /* HCPasswordGenerator.h */;
+		name = "HCPasswordGenerator.h: 1";
+		rLen = 392;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 392;
+		vrLoc = 0;
+	};
+	F4E5C37312DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F466229B1284545100F0C430 /* HCPasswordGenerator.m */;
+		name = "HCPasswordGenerator.m: 49";
+		rLen = 47;
+		rLoc = 895;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 468;
+	};
+	F4E5C37412DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F466234F12845F9900F0C430 /* HCGeneratorController.h */;
+		name = "HCGeneratorController.h: 31";
+		rLen = 0;
+		rLoc = 677;
+		rType = 0;
+		vrLen = 919;
+		vrLoc = 321;
+	};
+	F4E5C37512DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F466235012845F9900F0C430 /* HCGeneratorController.m */;
+		name = "HCGeneratorController.m: 116";
+		rLen = 74;
+		rLoc = 2529;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 2317;
+	};
+	F4E5C37612DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F457A7C512884680004C2666 /* HCSettingsManager.h */;
+		name = "HCSettingsManager.h: 23";
+		rLen = 0;
+		rLoc = 405;
+		rType = 0;
+		vrLen = 600;
+		vrLoc = 0;
+	};
+	F4E5C37712DF40890071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F457A7C612884680004C2666 /* HCSettingsManager.m */;
+		name = "HCSettingsManager.m: 47";
+		rLen = 0;
+		rLoc = 915;
+		rType = 0;
+		vrLen = 683;
+		vrLoc = 621;
+	};
+	F4E5C38412DF40AB0071B159 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	F4E5C38512DF40AB0071B159 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = F457A7F612884AA3004C2666 /* Defaults.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/simon/Programmering/Hobo Password Generator/Defaults.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	F4E5C38612DF40AB0071B159 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/simon/Programmering/Hobo Password Generator/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
