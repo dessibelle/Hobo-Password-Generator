@@ -218,7 +218,7 @@ lengthStepper = _lengthStepper;
 	{
 		self.count += increment;
 		return YES;
-	} else if ( control = self.lengthField )
+	} else if ( control == self.lengthField )
 	{
 		self.length += increment;
 		return YES;
